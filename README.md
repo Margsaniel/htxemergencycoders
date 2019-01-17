@@ -8,9 +8,7 @@ This was during just a 24 hour period which initiated the major flooding in West
 
 In general, Buffalo Bayou started receeding around 9-10-2017 (16 days later).
 
-This water gauge data for this is in the water_gauge_elevation.csv file.
-
-The social media relationship to this flooding data would be quite interesting.
+The water gauge data for this is in the water_gauge_elevation.csv file.
 
 
 

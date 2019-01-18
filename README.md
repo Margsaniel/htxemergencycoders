@@ -1,4 +1,4 @@
-## Houston Emergency Coders
+# Houston Emergency Coders
 
 ![Harvey](images/harvey.jpg)
 
@@ -12,7 +12,7 @@ In general, Buffalo Bayou started receeding around 9-10-2017 (16 days later).
 
 The water gauge data for this is in the water_gauge_elevation.csv file.
 
-# Planning Calendar
+## Planning Calendar
 
 Friday Jan 18th
 No meeting, but prepare for Saturday

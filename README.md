@@ -16,7 +16,7 @@ The water gauge data for this is in the water_gauge_elevation.csv file.
 
 Friday Jan 18th - No meeting, but prepare for Saturday
 
-Saturday Jan 19th - Galleria Starbucks: 9 am to noon - finish graphs, analysis, and PowerPoint draft (Decide if meeting needed on Saturday)
+Saturday Jan 19th - Galleria Starbucks: 9 am to noon - finish graphs, analysis, and PowerPoint draft (Decide if meeting needed on Sunday)
 
 Sunday Jan 20th - Soft deadline for project and practice presentation
 

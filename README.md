@@ -20,7 +20,7 @@ Saturday Jan 19th - Galleria Starbucks: 9 am to noon - finish graphs, analysis, 
 
 Sunday Jan 20th - Doug's Starbucks: Time TBD - soft deadline for project and practice presentation
 
-Monday Jan 21st - Rice Campus: 1 pm meet with Dr Bedient for his slide presentation (Doug and Lesly work together after his presentation and be joined later by Margret) Hard deadline for project
+Monday Jan 21st - Rice Campus: 1 pm meet with Dr Bedient for his slide presentation (Doug and Lesly work together after his presentation and be joined later by Margret) HARD DEADLINE FOR PROJECT
 
 Tuesday Jan 22nd - Doug's Starbucks: 5:30 pm to 8:30 pm - practice, video tape, and critique our presentation
 

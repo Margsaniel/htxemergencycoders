@@ -14,17 +14,14 @@ The water gauge data for this is in the water_gauge_elevation.csv file.
 
 ### Planning Calendar
 
-Friday Jan 18th - No meeting, but prepare for Saturday
+Saturday Jan 19th - Galleria Starbucks: 9 am to noon
 
-Saturday Jan 19th - Galleria Starbucks: 9 am to noon - finish graphs, analysis, and PowerPoint draft
+Sunday Jan 20th - SOFT DEADLINE FOR PROJECT - Doug's Starbucks: 1 pm to ??? - graphs, analysis, and PowerPoint
 
-Sunday Jan 20th - Doug's Starbucks: 1 pm to ??? - soft deadline for project
+Monday Jan 21st - HARD DEADLINE FOR PROJECT, Doug's Starbucks ??? - finish graphs, analysis, and PowerPoint
 
-Monday Jan 21st - HARD DEADLINE FOR PROJECT, Doug's Starbucks ???
+Tuesday Jan 22nd - Doug's Starbucks: 5:30 pm to 8:30 pm - practice, video tape, and critique presentation
 
-Tuesday Jan 22nd - Doug's Starbucks: 5:30 pm to 8:30 pm - practice, video tape, and critique our presentation
-
-Wednesday Jan 23rd - Rice Campus: 1 pm meet with Dr Bedient for slide presentation 
-6:30 pm to 9:30 pm - The BIG Presentations
+Wednesday Jan 23rd - Rice Campus: 1 pm to 2 pm - Dr Bedient slide presentation, 6:30 pm to 9:30 pm - The BIG Presentations
 
 Date to be determined - Toga Party with Adult Beverages !!!

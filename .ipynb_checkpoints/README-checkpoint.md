@@ -12,13 +12,13 @@ If we learn from our past with Harvey, then we will be able to significantly red
 
 Reservoir data monitoring collected during 2017 from Addicks Reservoir shows rainfall from Harvey had a significant impact on the reservoir elevation. Although the reservor is often dry during the year (68 ft) elevation, the reservoir height rose to a record elevation (109 ft) during the hurricane. The major hurricane rainfall in the reservoir occurred from August 26 to August 28 which directly resulted in nine days of house flooding through September 6 from high reservoir levels (104 ft).
 
-![Harvey](images/addicks_reservoir_elevation.png)
+![Harvey](images/addicks_reservoir_elevation2.png)
 
 ### What impact did Harvey rainfall have on the reservoir elevation of Barker Reservoir?
 
 Reservoir data monitoring collected during 2017 for the Barker Reservoir shows similar trends to the Addicks Reservoir, indicating rainfall from Harvey also had a significant impact on the reservoir elevation. The reservoir height rose to a record elevation (104 ft) during the hurricane. The major hurricane rainfall in the reservoir also occurred from August 26 to August 28 which directly resulted in nine days of house flooding through September 6 from high reservoir levels (97 ft).
 
-![Harvey](images/barker_reservoir_elevation.png)
+![Harvey](images/barker_reservoir_elevation2.png)
 
 ### How did Harvey affect areas of Bufalo Bayou flood inundation eastward from reservoirs to downtown?
 
@@ -54,4 +54,4 @@ The City of Houston has exploded in last few decades and there is no sign that i
 
 The water levels are getting higher, during Harvey we saw 500 year storm levels. It is important to tackle and prevent the nearby creeks from overflowing into the growing area of the counties of Fort Bend, Waller and Brazoria. On this chart, we can clearly see the how the water levels compared with previous storms and it paints an eerie picture of our future if we do not come up with solutions to protect incoming residents.
 
-![Harvey](images/3dplot.png)
+![Harvey](images/3Dplot.png)

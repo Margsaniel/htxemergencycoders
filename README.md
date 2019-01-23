@@ -54,4 +54,4 @@ The City of Houston has exploded in last few decades and there is no sign that i
 
 The water levels are getting higher, during Harvey we saw 500 year storm levels. It is important to tackle and prevent the nearby creeks from overflowing into the growing area of the counties of Fort Bend, Waller and Brazoria. On this chart, we can clearly see the how the water levels compared with previous storms and it paints an eerie picture of our future if we do not come up with solutions to protect incoming residents.
 
-![Harvey](images/3d.png)
+![Harvey](images/3dplot.png)

@@ -25,3 +25,8 @@ Tuesday Jan 22nd - Doug's Starbucks: 5:30 pm to 8:30 pm - practice, video tape, 
 Wednesday Jan 23rd - Rice Campus: 1 pm to 2 pm - Dr Bedient slide presentation, 6:30 pm to 9:30 pm - The BIG Presentation
 
 Date to be determined - Toga Party with Adult Beverages !!!
+
+
+### HYPOTHESIS
+
+If we learn from our past with Harvey then we will be able to significantly reduce risk in the future

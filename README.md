@@ -2,9 +2,11 @@
 
 ![Harvey](images/harvey.jpg)
 
-### Hypothesis
+## Hypothesis
 
 If we learn from our past with Harvey, then we will be able to significantly reduce future flood risk.
+
+## Analytical Summary
 
 ### What impact did Harvey rainfall have on the reservoir elevation of Addicks Reservoir?
 
